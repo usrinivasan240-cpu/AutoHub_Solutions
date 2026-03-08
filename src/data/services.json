@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Website Development",
+    "icon": "Globe",
+    "shortDescription": "Stunning, fast, SEO-optimized websites that convert visitors into customers.",
+    "description": "Our website development service delivers modern, high-performance websites built with the latest technologies like Next.js, React, and TypeScript. We focus on creating websites that not only look stunning but also load fast, rank well on search engines, and provide an exceptional user experience across all devices.",
+    "features": [
+      "Responsive Mobile-First Design",
+      "Next.js & React Framework",
+      "Advanced SEO Optimization",
+      "E-commerce Solutions with Payment Gateway",
+      "CMS Integration (WordPress, Sanity)",
+      "Performance Optimization & Fast Loading",
+      "SSL Security & HTTPS",
+      "Custom Web Applications"
+    ],
+    "whoFor": ["Small Businesses", "Startups", "E-commerce Stores", "Corporate Websites", "Portfolios"],
+    "gradient": "from-blue-500 to-cyan-500"
+  },
+  {
+    "title": "App Development",
+    "icon": "Smartphone",
+    "shortDescription": "Native & cross-platform mobile apps for iOS and Android that engage users.",
+    "description": "We build high-quality mobile applications for iOS and Android platforms using React Native and Flutter. Our apps are designed with a user-centric approach, ensuring intuitive navigation, smooth performance, and engaging user experiences that keep your customers coming back.",
+    "features": [
+      "iOS & Android Native Apps",
+      "Cross-Platform (React Native/Flutter)",
+      "UI/UX Design & Prototyping",
+      "App Store Submission & Deployment",
+      "API Integration & Backend",
+      "Push Notifications",
+      "Real-time Features",
+      "Post-Launch Maintenance & Support"
+    ],
+    "whoFor": ["Startups", "E-commerce Businesses", "Service Providers", "Healthcare Apps", "Food Delivery"],
+    "gradient": "from-violet-500 to-purple-500"
+  },
+  {
+    "title": "AI Services",
+    "icon": "Bot",
+    "shortDescription": "Intelligent chatbots, voice agents & automation powered by cutting-edge AI.",
+    "description": "Transform your business with our AI services! From intelligent chatbots that handle customer queries 24/7 to AI voice agents and automation workflows, we help you leverage the power of artificial intelligence to improve efficiency, reduce costs, and enhance customer experience.",
+    "features": [
+      "AI Chatbots & Virtual Assistants",
+      "AI Voice Agents & Speech Recognition",
+      "Process Automation & Workflows",
+      "OpenAI & Custom LLM Integration",
+      "AI-Powered Analytics & Insights",
+      "Customer Support Automation",
+      "Lead Generation Bots",
+      "Document Processing AI"
+    ],
+    "whoFor": ["E-commerce Stores", "Customer Support Teams", "Real Estate", "Healthcare", "Education"],
+    "gradient": "from-green-500 to-emerald-500"
+  },
+  {
+    "title": "Custom Software Development",
+    "icon": "Code",
+    "shortDescription": "Tailored software solutions built specifically for your unique business needs.",
+    "description": "Every business is unique, and off-the-shelf software doesn't always fit. Our custom software development service creates bespoke solutions tailored to your specific requirements, whether you need a SaaS platform, CRM system, inventory management, or any other business application.",
+    "features": [
+      "SaaS Platform Development",
+      "CRM & ERP Systems",
+      "Inventory Management Software",
+      "Cloud Solutions (AWS, Azure)",
+      "API Development & Integration",
+      "Legacy System Migration",
+      "Database Design & Optimization",
+      "Enterprise Software Solutions"
+    ],
+    "whoFor": ["Enterprises", "Manufacturing", "Retail & E-commerce", "Logistics", "Healthcare"],
+    "gradient": "from-orange-500 to-amber-500"
+  },
+  {
+    "title": "Digital Growth & SEO",
+    "icon": "BarChart",
+    "shortDescription": "Data-driven strategies to increase visibility, traffic & conversions.",
+    "description": "Grow your online presence with our comprehensive digital marketing and SEO services. We use data-driven strategies to improve your search engine rankings, drive organic traffic, and convert visitors into loyal customers. Our approach combines technical SEO, content marketing, and performance analytics.",
+    "features": [
+      "Technical SEO Audit & Fixes",
+      "On-Page & Off-Page SEO",
+      "Content Marketing Strategy",
+      "Social Media Marketing",
+      "Google Ads & PPC Campaigns",
+      "Conversion Rate Optimization",
+      "Analytics & Reporting Dashboard",
+      "Brand Strategy & Identity"
+    ],
+    "whoFor": ["Local Businesses", "E-commerce Stores", "Startups", "Digital Agencies", "Service Providers"],
+    "gradient": "from-pink-500 to-rose-500"
+  },
+  {
+    "title": "Student Projects",
+    "icon": "GraduationCap",
+    "shortDescription": "Expert guidance & development for final year academic projects.",
+    "description": "We help students transform their academic project ideas into reality! From concept development to final implementation, our team provides end-to-end support for B.Tech, MCA, M.Sc, and other academic projects. We ensure you understand every aspect of your project while achieving excellent grades.",
+    "features": [
+      "Final Year Project Guidance",
+      "Real-Time Application Development",
+      "Latest Technologies (AI/ML, Web3, IoT)",
+      "Complete Documentation & Reports",
+      "Source Code with Comments",
+      "PPT Presentation Preparation",
+      "Live Project Demonstrations",
+      "One-on-One Mentoring Sessions"
+    ],
+    "whoFor": ["B.Tech/M.Tech Students", "MCA/BCA Students", "M.Sc/BCS Students", "Diploma Students", "Research Scholars"],
+    "gradient": "from-indigo-500 to-blue-500"
+  }
+]

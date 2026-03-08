@@ -1,0 +1,28 @@
+{
+  "plans": [
+    {
+      "name": "Enterprise",
+      "price": "Custom",
+      "period": "starting from",
+      "description": "For large-scale applications, custom development, and comprehensive digital solutions tailored to your needs.",
+      "features": [
+        "Fully Custom Development",
+        "Mobile App (iOS & Android)",
+        "Custom AI Solutions",
+        "Advanced Automation",
+        "API Integrations",
+        "Cloud Infrastructure",
+        "Dedicated Project Manager",
+        "24/7 Premium Support",
+        "Unlimited Revisions",
+        "12 Months Maintenance"
+      ],
+      "notIncluded": [],
+      "cta": "Contact Sales",
+      "popular": false,
+      "gradient": "from-orange-500 to-amber-500",
+      "bgGradient": "from-orange-500/20 to-amber-500/20",
+      "target": "Large Enterprises, Corporations, unicorns"
+    }
+  ]
+}

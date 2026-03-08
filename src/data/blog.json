@@ -1,0 +1,65 @@
+{
+  "categories": [
+    { "name": "All", "icon": null },
+    { "name": "AI", "icon": "Brain" },
+    { "name": "Web", "icon": "Globe" },
+    { "name": "App", "icon": "Smartphone" },
+    { "name": "Business", "icon": "TrendingUp" },
+    { "name": "Student", "icon": "GraduationCap" }
+  ],
+  "featuredPost": {
+    "title": "The Complete Guide to Digital Transformation for Indian Businesses",
+    "excerpt": "In this comprehensive guide, we explore how Indian businesses of all sizes can leverage digital technologies to improve efficiency, reach more customers, and grow their revenue. From small startups to established enterprises, digital transformation is no longer optional - it's essential for survival.",
+    "category": "Business",
+    "date": "Feb 15, 2026",
+    "author": "Autohub Team",
+    "readTime": "15 min read"
+  },
+  "posts": [
+    {
+      "title": "How AI is Transforming Small Businesses in 2024",
+      "excerpt": "Discover how artificial intelligence is helping small businesses compete with big corporations through automation, better customer service, and data-driven decisions.",
+      "category": "AI",
+      "date": "Feb 10, 2026",
+      "author": "Autohub Team",
+      "readTime": "5 min read",
+      "gradient": "from-blue-500/20 to-cyan-500/20"
+    },
+    {
+      "title": "10 Tips for Building a Successful Online Presence",
+      "excerpt": "Learn the essential strategies for creating a strong digital presence that attracts customers and builds brand authority in today's competitive market.",
+      "category": "Business",
+      "date": "Feb 5, 2026",
+      "author": "Autohub Team",
+      "readTime": "7 min read",
+      "gradient": "from-violet-500/20 to-purple-500/20"
+    },
+    {
+      "title": "Why Your Business Needs a Mobile App in 2026",
+      "excerpt": "Mobile apps are no longer optional. Explore the key benefits of having a mobile app and how it can transform your customer engagement and revenue.",
+      "category": "App",
+      "date": "Jan 28, 2026",
+      "author": "Autohub Team",
+      "readTime": "6 min read",
+      "gradient": "from-cyan-500/20 to-teal-500/20"
+    },
+    {
+      "title": "The Future of Web Development: Trends to Watch",
+      "excerpt": "From AI-powered development to edge computing, stay ahead of the curve with these emerging web development trends shaping the industry.",
+      "category": "Web",
+      "date": "Jan 20, 2026",
+      "author": "Autohub Team",
+      "readTime": "8 min read",
+      "gradient": "from-pink-500/20 to-rose-500/20"
+    },
+    {
+      "title": "How Students Can Benefit from Custom Software Projects",
+      "excerpt": "Final year project got you stressed? Learn how building real-world software projects can boost your career and land you your dream job.",
+      "category": "Student",
+      "date": "Jan 15, 2026",
+      "author": "Autohub Team",
+      "readTime": "6 min read",
+      "gradient": "from-green-500/20 to-emerald-500/20"
+    }
+  ]
+}

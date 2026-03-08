@@ -1,0 +1,29 @@
+{
+  "values": [
+    {
+      "title": "Innovation",
+      "description": "We constantly push boundaries and embrace new technologies to deliver cutting-edge solutions that keep our clients ahead of the curve.",
+      "icon": "💡"
+    },
+    {
+      "title": "Transparency",
+      "description": "Clear communication and honest pricing. No hidden costs, no surprises - just straightforward partnership throughout your project.",
+      "icon": "🤝"
+    },
+    {
+      "title": "Affordability",
+      "description": "Quality solutions at student-friendly prices. We believe technology should be accessible to everyone, from startups to students.",
+      "icon": "💰"
+    },
+    {
+      "title": "Excellence",
+      "description": "Every project receives our full attention and expertise. We don't just meet expectations - we exceed them with premium quality delivery.",
+      "icon": "⭐"
+    },
+    {
+      "title": "Customer Success",
+      "description": "Your growth is our success. We provide ongoing support and guidance to ensure long-term success of your digital transformation.",
+      "icon": "🎯"
+    }
+  ]
+}

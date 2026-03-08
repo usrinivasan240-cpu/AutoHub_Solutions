@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How do you price your projects?",
+    "answer": "Our pricing is transparent and based on project scope, complexity, and timeline. We offer three main pricing tiers: Starter (₹9,999), Business (₹24,999), and Enterprise (custom pricing). Each tier includes specific features tailored to different needs. For custom requirements, we provide detailed quotes after understanding your project. There are no hidden fees - the price we quote is what you pay."
+  },
+  {
+    "question": "What is your typical project timeline?",
+    "answer": "Project timelines vary based on complexity:\n\n• Basic Website: 2-3 weeks\n• Business Website: 4-6 weeks\n• E-commerce Store: 6-8 weeks\n• Mobile App: 8-12 weeks\n• Custom Software: 12+ weeks\n\nWe provide a detailed project timeline during our initial consultation and keep you updated throughout the development process."
+  },
+  {
+    "question": "Do you offer post-launch support?",
+    "answer": "Yes! All our plans include post-launch support:\n\n• Starter Plan: 1 month maintenance\n• Business Plan: 3 months maintenance\n• Enterprise Plan: 12 months maintenance\n\nOur support includes bug fixes, security updates, and minor changes. We also offer extended support packages for ongoing needs."
+  },
+  {
+    "question": "Can I customize my solution after delivery?",
+    "answer": "Absolutely! We welcome post-delivery customization. After your project is delivered, you can request changes or additions. We offer competitive rates for modifications and provide clear timelines for any updates. Our team is always available to discuss new features or changes you'd like to implement."
+  },
+  {
+    "question": "How do you ensure project quality?",
+    "answer": "We maintain quality through multiple stages:\n\n1. Thorough requirement analysis before starting\n2. Regular progress updates and demos\n3. Multiple testing phases (QA)\n4. Client feedback integration\n5. Final review before delivery\n6. Post-launch support and fixes\n\nWe also follow industry best practices and coding standards to ensure your project is maintainable and scalable."
+  },
+  {
+    "question": "What technologies do you use?",
+    "answer": "We use modern, cutting-edge technologies:\n\n• Frontend: Next.js, React, TypeScript\n• Mobile: React Native, Flutter\n• Backend: Node.js, Python\n• AI: OpenAI, Custom LLM models\n• Database: MongoDB, PostgreSQL, Firebase\n• Cloud: AWS, Vercel, Cloudflare\n\nWe choose technologies based on your specific needs to ensure optimal performance and scalability."
+  },
+  {
+    "question": "How does the AI integration work?",
+    "answer": "Our AI integration process:\n\n1. We discuss your requirements and identify opportunities for AI\n2. Our team designs the AI solution (chatbot, automation, etc.)\n3. We train AI models on your specific data\n4. Integration with your existing systems\n5. Testing and optimization\n6. Launch with monitoring\n\nWe make AI accessible - no technical knowledge required on your end!"
+  },
+  {
+    "question": "Do you work with students on academic projects?",
+    "answer": "Yes! We love helping students succeed. Our student services include:\n\n• Final year project guidance (B.Tech, MCA, M.Sc)\n• Real-time application development\n• Complete documentation and reports\n• Source code with explanations\n• PPT preparation\n• Live demonstrations\n\nPricing starts at just ₹4,999 - making it affordable for students while delivering professional-quality work."
+  },
+  {
+    "question": "What payment terms do you offer?",
+    "answer": "We offer flexible payment terms:\n\n• 50% advance to start the project\n• 50% upon completion\n\nFor larger projects, we can split payments into milestones. We accept payments via UPI, Bank Transfer, and other convenient methods. We want to make the payment process as smooth as possible for you."
+  },
+  {
+    "question": "How can I track project progress?",
+    "answer": "We keep you informed throughout:\n\n• Weekly progress updates via email\n• Regular demo calls to showcase progress\n• Access to project management dashboard\n• Direct communication with your project manager\n• Instant response during business hours\n\nWe believe in complete transparency - you'll always know what's happening with your project."
+  }
+]
