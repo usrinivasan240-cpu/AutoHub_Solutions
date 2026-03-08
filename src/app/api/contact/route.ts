@@ -32,11 +32,21 @@ function checkRateLimit(ip: string): boolean {
   return true;
 }
 
-// Initialize Resend
-const resend = new Resend(process.env.RESEND_API_KEY!);
-
 export async function POST(request: NextRequest) {
   try {
+    // Check if API key is configured
+    const apiKey = process.env.RESEND_API_KEY;
+    if (!apiKey) {
+      console.error("RESEND_API_KEY is not configured");
+      return NextResponse.json(
+        { error: "Email service not configured" },
+        { status: 503 }
+      );
+    }
+        
+    // Initialize Resend
+    const resend = new Resend(apiKey);
+    
     // Get IP for rate limiting
     const ip = request.headers.get("x-forwarded-for") || "unknown";
     
